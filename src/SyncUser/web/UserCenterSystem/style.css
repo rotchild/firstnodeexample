@@ -1,0 +1,42 @@
+.button-icon-Refresh {background-image: url(../images/icons/refresh.png)}
+.button-icon-Add {background-image: url(../images/icons/add.png)}
+.button-icon-Edit {background-image: url(../images/icons/edit.png)}
+.button-icon-Del {background-image: url(../images/icons/del.png)}
+
+.tree-icon-Users {background-image: url(../images/icons/users.png) !important;}
+.tree-icon-User {background-image: url(../images/icons/user.png)  !important;}
+.tree-icon-Areas {background-image: url(../images/icons/areas.png)  !important;}
+.tree-icon-Area {background-image: url(../images/icons/area.png)  !important;}
+
+.x-grid-row .x-grid-cell {background-color: transparent;}
+
+.x-grid-tree-node-expanded .x-tree-icon-parent {background-image:url(../images/sjxz.png) !important;}
+.x-tree-icon-parent {background-image:url(../images/sjwxz.png) !important;}
+
+/*.x-grid-tree-node-expanded {background-color:#ee9c38 !important;}*//* 树节点展开后颜色 */
+/*.x-tree-node-expanded .x-tree-node-icon{background-image:url(../images/sjxz.png);}*/
+
+
+.x-grid-row-selected .x-grid-td .x-grid-cell-treecolumn.x-grid-cell-treecolumn {background:#ee9c38 url('') !important;}
+
+.x-toolbar-default{background:#ffeed9 url('') !important;}
+
+.button-icon-Search {
+    background-image: url(../images/icons/search.png);
+}
+
+.button-icon-Reset {
+    background-image: url(../images/resetIcon.png);
+}
+
+.add {
+    background-image: url(../images/icons/add.png)
+}
+
+.remove {
+    background-image: url(../images/icons/del.png)
+}
+
+.upload {
+    background-image: url(../images/icons/upload.png);
+}
